@@ -5,5 +5,12 @@
 "y": -3254, 
 "width": 664, 
 "height": 729 
-}
+},
+"base": { 
+"name": "base.png", 
+"x": -22125, 
+"y": -874, 
+"width": 1700, 
+"height": 722 
+}  
 }
