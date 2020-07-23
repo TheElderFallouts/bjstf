@@ -1,4 +1,11 @@
 {
+"hitoukrbots": { 
+"name": "hitoukrbots.png", 
+"x": 142, 
+"y": 43, 
+"width": 300, 
+"height": 200 
+},  
 "RQ": { 
 "name": "RQ.png", 
 "x": -23339, 
@@ -12,12 +19,5 @@
 "y": -874, 
 "width": 1700, 
 "height": 722 
-},
-"pctf": { 
-"name": "pctf.png", 
-"x": 238, 
-"y": 222, 
-"width": 204, 
-"height": 216 
-}  
+}
 }
