@@ -13,6 +13,13 @@
 "width": 667, 
 "height": 760 
 },
+"Ole": { 
+"name": "Ole.png", 
+"x": -23915, 
+"y": -3174, 
+"width": 500, 
+"height": 325 
+},
 "base": { 
 "name": "base.png", 
 "x": -22125, 
