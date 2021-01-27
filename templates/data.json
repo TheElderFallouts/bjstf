@@ -27,6 +27,13 @@
 "width": 1700, 
 "height": 722 
 },
+"base2": { 
+"name": "base2.png", 
+"x": 9821, 
+"y": -21104, 
+"width": 286, 
+"height": 378 
+},
 "bb": { 
 "name": "bb.png", 
 "x": -780, 
