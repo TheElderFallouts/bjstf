@@ -41,6 +41,13 @@
 "width": 474, 
 "height": 113 
 },
+"bb2": { 
+"name": "bb2.png", 
+"x": -2520, 
+"y": 3818, 
+"width": 880, 
+"height": 132 
+},
 "sm": { 
 "name": "sm.png", 
 "x": 1096, 
