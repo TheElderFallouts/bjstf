@@ -48,6 +48,13 @@
 "width": 880, 
 "height": 132 
 },
+"catb": { 
+"name": "catb.png", 
+"x": 11990, 
+"y": 32058, 
+"width": 820, 
+"height": 710 
+},
 "sm": { 
 "name": "sm.png", 
 "x": 1096, 
