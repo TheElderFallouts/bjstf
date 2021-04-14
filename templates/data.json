@@ -50,10 +50,10 @@
 },
 "catb": { 
 "name": "catb.png", 
-"x": 11990, 
-"y": 32058, 
-"width": 820, 
-"height": 710 
+"x": 11888, 
+"y": 24768, 
+"width": 8000, 
+"height": 7000 
 },
 "sm": { 
 "name": "sm.png", 
