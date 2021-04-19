@@ -55,6 +55,13 @@
 "width": 8000, 
 "height": 7000 
 },
+"catm": { 
+"name": "catm.png", 
+"x": 510, 
+"y": 1628, 
+"width": 480, 
+"height": 420 
+},
 "sm": { 
 "name": "sm.png", 
 "x": 1096, 
