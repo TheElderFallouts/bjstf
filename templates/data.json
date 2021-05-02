@@ -68,7 +68,14 @@
 "y": 7935, 
 "width": 256, 
 "height": 257 
-},  
+},
+"mageb": { 
+"name": "mage.png", 
+"x": 10501, 
+"y": 32054, 
+"width": 500, 
+"height": 713 
+},
 "sm": { 
 "name": "sm.png", 
 "x": 1096, 
