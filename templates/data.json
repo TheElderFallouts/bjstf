@@ -57,10 +57,10 @@
 },
 "catm": { 
 "name": "catm.png", 
-"x": 4792, 
-"y": 5392, 
-"width": 3200, 
-"height": 2800 
+"x": 6152, 
+"y": 6512, 
+"width": 1920, 
+"height": 1680 
 },
 "loading": { 
 "name": "loading.png", 
