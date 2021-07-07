@@ -96,5 +96,12 @@
 "y": -2048, 
 "width": 300, 
 "height": 330 
+},
+"nightcity": { 
+"name": "nightcity.png", 
+"x": 5070, 
+"y": -6564, 
+"width": 167, 
+"height": 108 
 }
 }
