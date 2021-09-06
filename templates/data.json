@@ -5,7 +5,14 @@
 "y": -2598, 
 "width": 1782, 
 "height": 1002 
-},   
+},
+"MLP_FiM": { 
+"name": "MLP_FiM.png", 
+"x": -19597, 
+"y": -1596, 
+"width": 1780, 
+"height": 2314 
+},
 "RQ": { 
 "name": "RQ.png", 
 "x": -23415, 
