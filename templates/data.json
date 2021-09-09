@@ -69,6 +69,13 @@
 "width": 8000, 
 "height": 7000 
 },
+"loadingb": { 
+"name": "loadingb.png", 
+"x": -32767, 
+"y": 32511, 
+"width": 256, 
+"height": 257 
+},
 "catm": { 
 "name": "catm.png", 
 "x": 6152, 
