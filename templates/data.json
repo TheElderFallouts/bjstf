@@ -71,7 +71,7 @@
 },
 "loadingb": { 
 "name": "loadingb.png", 
-"x": -32767, 
+"x": -32768, 
 "y": 32511, 
 "width": 256, 
 "height": 257 
