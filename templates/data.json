@@ -79,9 +79,9 @@
 "catm": { 
 "name": "catm.png", 
 "x": 6152, 
-"y": 6512, 
+"y": 6032, 
 "width": 1920, 
-"height": 1680 
+"height": 2160 
 },
 "loading": { 
 "name": "loading.png", 
