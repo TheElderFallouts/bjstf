@@ -138,5 +138,12 @@
 "y": 503, 
 "width": 1412, 
 "height": 281 
+},
+"island": { 
+"name": "island.png", 
+"x": 7984, 
+"y": 2795, 
+"width": 1439, 
+"height": 927 
 }
 }
