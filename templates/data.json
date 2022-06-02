@@ -159,12 +159,5 @@
 "y": -11290, 
 "width": 215, 
 "height": 279 
-},
-"theflag": { 
-"name": "theflag.png", 
-"x": 6849, 
-"y": 2291, 
-"width": 526, 
-"height": 268 
-}  
+}
 }
