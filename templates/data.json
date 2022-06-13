@@ -166,5 +166,12 @@
 "y": 434, 
 "width": 119, 
 "height": 68 
+},
+"ussr": { 
+"name": "ussr.png", 
+"x": 8868, 
+"y": 2387, 
+"width": 168, 
+"height": 168 
 }
 }
