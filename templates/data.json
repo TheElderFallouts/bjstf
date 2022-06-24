@@ -172,6 +172,13 @@
 "x": 8868, 
 "y": 2387, 
 "width": 168, 
-"height": 168 
+"height": 168   
+},
+"Rara_x_AJ": { 
+"name": "Rara_x_AJ.png", 
+"x": 235, 
+"y": -14, 
+"width": 88, 
+"height": 44   
 }
 }
