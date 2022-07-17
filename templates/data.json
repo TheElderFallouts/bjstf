@@ -194,5 +194,12 @@
 "y": -11919, 
 "width": 578, 
 "height": 495   
-}
+},
+"north": { 
+"name": "north.png", 
+"x": 790, 
+"y": -14995, 
+"width": 392, 
+"height": 738   
+}  
 }
