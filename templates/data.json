@@ -201,5 +201,12 @@
 "y": -14995, 
 "width": 392, 
 "height": 738   
-}  
+},
+"Fluttershy_top": { 
+"name": "Fluttershy_top.png", 
+"x": 833, 
+"y": -610, 
+"width": 167, 
+"height": 98   
+}
 }
