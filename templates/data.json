@@ -208,5 +208,12 @@
 "y": -610, 
 "width": 167, 
 "height": 98   
+},
+"foe_top": { 
+"name": "foe_top.png", 
+"x": 617, 
+"y": -1000, 
+"width": 383, 
+"height": 204   
 }
 }
