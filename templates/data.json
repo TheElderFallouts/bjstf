@@ -216,11 +216,11 @@
 "width": 383, 
 "height": 204   
 },
-"move": { 
-"name": "move.png", 
-"x": 139, 
-"y": -493, 
-"width": 358, 
-"height": 416   
+"RUSSIAPPF": { 
+"name": "RUSSIAPPF.png", 
+"x": 7253, 
+"y": -14469, 
+"width": 207, 
+"height": 112   
 }
 }
