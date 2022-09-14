@@ -236,5 +236,12 @@
 "y": -13214, 
 "width": 512, 
 "height": 192   
+},
+"empirem": { 
+"name": "empirem.png", 
+"x": 6340, 
+"y": 4252, 
+"width": 854, 
+"height": 533   
 }
 }
