@@ -139,13 +139,6 @@
 "width": 1412, 
 "height": 281 
 },
-"island": { 
-"name": "island.png", 
-"x": 7984, 
-"y": 2795, 
-"width": 1439, 
-"height": 927 
-},
 "ap": { 
 "name": "ap.png", 
 "x": 21479, 
@@ -167,13 +160,6 @@
 "width": 119, 
 "height": 68 
 },
-"ussr": { 
-"name": "ussr.png", 
-"x": 8868, 
-"y": 2387, 
-"width": 168, 
-"height": 168   
-},
 "Concert": { 
 "name": "Concert.png", 
 "x": 236, 
@@ -181,26 +167,12 @@
 "width": 189, 
 "height": 56   
 },
-"gf": { 
-"name": "gf.png", 
-"x": -2750, 
-"y": 2263, 
-"width": 201, 
-"height": 200   
-},
 "sv3": { 
 "name": "sv3.png", 
 "x": 8487, 
 "y": -11919, 
 "width": 578, 
 "height": 495   
-},
-"north": { 
-"name": "north.png", 
-"x": 790, 
-"y": -14995, 
-"width": 392, 
-"height": 738   
 },
 "Fluttershy_top": { 
 "name": "Fluttershy_top.png", 
@@ -223,13 +195,6 @@
 "width": 207, 
 "height": 112   
 },
-"res": { 
-"name": "res.png", 
-"x": -3108, 
-"y": -4208, 
-"width": 195, 
-"height": 218   
-},
 "ml": { 
 "name": "ml.png", 
 "x": 9189, 
@@ -237,11 +202,32 @@
 "width": 512, 
 "height": 192   
 },
-"empirem": { 
-"name": "empirem.png", 
-"x": 6340, 
-"y": 4252, 
-"width": 854, 
-"height": 533   
+"Mdagascar_d": { 
+"name": "Mdagascar_d.png", 
+"x": 8108, 
+"y": 2169, 
+"width": 1354, 
+"height": 1405   
+},
+"north_d": { 
+"name": "north_d.png", 
+"x": 890, 
+"y": -14978, 
+"width": 228, 
+"height": 680   
+},
+"Twilight_d": { 
+"name": "Twilight_d.png", 
+"x": 9448, 
+"y": -13017, 
+"width": 49, 
+"height": 35   
+},
+"bffgf": { 
+"name": "bffgf.png", 
+"x": -2749, 
+"y": 2125, 
+"width": 348, 
+"height": 338   
 }
 }
