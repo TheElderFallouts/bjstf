@@ -48,20 +48,6 @@
 "width": 89, 
 "height": 48 
 },  
-"bb": { 
-"name": "bb.png", 
-"x": -798, 
-"y": -96, 
-"width": 474, 
-"height": 113 
-},
-"bb2": { 
-"name": "bb2.png", 
-"x": -2520, 
-"y": 3818, 
-"width": 880, 
-"height": 132 
-},
 "catb": { 
 "name": "catb.png", 
 "x": 11388, 
@@ -125,27 +111,6 @@
 "width": 167, 
 "height": 108 
 },
-"vs": { 
-"name": "vs.png", 
-"x": 5365, 
-"y": -15072, 
-"width": 1176, 
-"height": 823 
-},
-"tu": { 
-"name": "tu.png", 
-"x": -17592, 
-"y": 503, 
-"width": 1412, 
-"height": 281 
-},
-"ap": { 
-"name": "ap.png", 
-"x": 21479, 
-"y": -19932, 
-"width": 101, 
-"height": 101 
-},
 "vm": { 
 "name": "vm.png", 
 "x": 17218, 
@@ -194,13 +159,6 @@
 "y": -14469, 
 "width": 207, 
 "height": 112   
-},
-"ml": { 
-"name": "ml.png", 
-"x": 9189, 
-"y": -13214, 
-"width": 512, 
-"height": 192   
 },
 "Mdagascar_d": { 
 "name": "Mdagascar_d.png", 
